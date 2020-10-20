@@ -17,6 +17,12 @@ matplotlib=3.1.1
 ```
 
 
+
+## Training:
+```
+python train_svhn.py
+```
+
 ## Citation
 If you found this code useful please cite our paper
 ```
